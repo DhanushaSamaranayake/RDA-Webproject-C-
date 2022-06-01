@@ -1,0 +1,45 @@
+﻿body {
+}
+
+.list
+{
+    margin-left:1%;
+    margin-right:0%;
+    margin-top:10%;
+    display:inline-flex;
+    background-color:teal;
+    width:23%;
+}
+.img{
+
+    display:inline-flex;
+}
+img {
+    width:333px;
+    height:220px;
+}
+table
+{
+    width:20px;
+    height:20px;
+}
+tr
+{
+    height:40px;
+}
+td{
+    height:20px;
+    width:20px;
+}
+h1
+{
+    font-size:larger;
+    margin-top:160%;
+    margin-left:160%;
+}
+
+p{
+    margin-top:10%;
+    margin-left:110%;
+    display:contents;
+}
